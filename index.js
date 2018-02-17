@@ -1,6 +1,3 @@
-var name = "hannah";
-var holiday = "Mother's day";
-var days = 5;
 
 function happyHolidays() {
   return "Happy holidays!" 
